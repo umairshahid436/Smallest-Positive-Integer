@@ -1,0 +1,6 @@
+c:\users\umair\documents\visual studio 2017\Projects\test\test\bin\Debug\test.exe.config
+c:\users\umair\documents\visual studio 2017\Projects\test\test\bin\Debug\test.exe
+c:\users\umair\documents\visual studio 2017\Projects\test\test\bin\Debug\test.pdb
+c:\users\umair\documents\visual studio 2017\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\umair\documents\visual studio 2017\Projects\test\test\obj\Debug\test.exe
+c:\users\umair\documents\visual studio 2017\Projects\test\test\obj\Debug\test.pdb
